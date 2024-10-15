@@ -15,3 +15,5 @@ Copy everything to your wallpaper directory;
 
 To finish up, I'd recommend removing the repo;
 `rm -rf wallpapers/`
+
+Alternatively, you can just click the green "Code" button in the top right and select "Download ZIP."
